@@ -9,7 +9,7 @@
 #
 # 08/26/2015    Lorenzo Delana (lorenzo.delana@gmail.com)
 #                                                       added bananapi specific CCFLAGS and conditional macro BANANPI
-#
+# 2018/07/07-ralm
 # *********************************************************************
 
 # Makefile itself dir
